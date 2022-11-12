@@ -1,1 +1,3 @@
 Hello World.
+
+docker build -t saurabh94/nodejs-image-demo-csat-2
